@@ -1,5 +1,7 @@
 # Git Commands
 
+## Following are the git commands to start with gitbash
+
 ```
 git config --global user.name "name"
 ```
